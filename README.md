@@ -38,25 +38,17 @@ To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
 
-<img width="1365" height="762" alt="image" src="https://github.com/user-attachments/assets/f43a6f70-ac61-40ea-9516-9e1333b587af" />
-
 To measure RTh or RN
 
 <img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
-
-<img width="1600" height="630" alt="image" src="https://github.com/user-attachments/assets/f3962a65-c9f3-40f3-ba62-8f44144e32a9" />
 
 To measure VTh or Voc
 
 <img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
 
-<img width="1600" height="605" alt="image" src="https://github.com/user-attachments/assets/c2386483-2942-4b76-a16e-09777f3e78af" />
-
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
-
-<img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/b3957655-0ea8-4376-8e8e-4c4842307760" />
 
 
 **PROCEDURE:**
